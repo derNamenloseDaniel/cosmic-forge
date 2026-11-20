@@ -2,7 +2,7 @@
 
 Ein Incremental Roguelite im Browser — passives Ressourcen-Management trifft auf aktive Runs durch prozedural skalierte Dungeons.
 
-**[🎮 Jetzt spielen](https://danielzaiser91.github.io/cosmic-forge/)**
+**[🎮 Jetzt spielen](https://dernamenlosedaniel.github.io/cosmic-forge/)**
 
 ---
 
@@ -36,7 +36,7 @@ Das Spiel besteht aus zwei Schichten:
 
 ```bash
 # Repo klonen
-git clone https://github.com/danielzaiser91/cosmic-forge.git
+git clone https://github.com/derNamenloseDaniel/cosmic-forge.git
 
 # In Godot 4 öffnen und F5 drücken
 ```
